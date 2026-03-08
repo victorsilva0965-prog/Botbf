@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 # --- CONFIGURAÇÕES DO GITHUB ---
-TOKEN = "SEU_TOKEN_GITHUB_AQUI"
+TOKEN = "4750173d50f26347fbeaf97caa056ae5"
 REPO = "victorsilva0965-prog/BFSTORYS"
 FILE_PATH = "produtos.json"
 
